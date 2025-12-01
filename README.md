@@ -1,4 +1,4 @@
-========== RESTART: C:/Users/shiva/OneDrive/Desktop/python/todolist.py =========
+
 1. Add Task
 2. view Task
 3. Update Task
