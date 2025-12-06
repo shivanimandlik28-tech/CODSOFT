@@ -1,0 +1,9 @@
+=== Simple Password Generator ===
+Enter desired password length (e.g. 8-32): 10
+Include lowercase letters? (y/n): y
+Include uppercase letters? (y/n): y
+Include digits (0-9)? (y/n): y
+Include symbols (e.g. @,#,$)? (y/n): y
+
+Generated password:
+yhexjl8jm!
